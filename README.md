@@ -1,6 +1,6 @@
 Description
 ====
-Personal collection of userscripts ready to be used on GreasMonkey, TamperMonkey or other userscripts manager
+Personal collection of userscripts ready to be used on GreaseMonkey, TamperMonkey or other userscripts manager.
 
 ## webwhatsapp_hide_previews.user.js
 When using the new web version of whatsapp, the image previews are quite big and can lead to private pictures/videos being seen by others. 
