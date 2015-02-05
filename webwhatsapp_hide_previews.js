@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Hide Web Whatsapp image preview
+// @name         WebWhatsApp Hide Previews
 // @namespace    pabloreyes.es
 // @version      0.1
 // @description  Hide the preview of images in the web version of whatsapp. To view the image, simply click on it and it will open in a popup
