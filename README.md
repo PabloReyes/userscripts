@@ -11,10 +11,11 @@ If you try hard enough, you'll be able to see some shapes in the image, which wi
 ### Example of before and after
 ![before_after](examples/webwhatsapp_hide_previews/before_after.png)
 
-### Install
-#### Chrome
-It's quite basic. You can see a [video of the process](http://tampermonkey.net/images/animated/install_from_github.gif) or follow this two simple steps:
+Installation
+===
+These userscripts are valid for mostly any new browser. I would recommend installing a userscript manager like 
+*[tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)* for Chrome or *[greasemonkey](https://addons.mozilla.org/es/firefox/addon/greasemonkey/)* for Firefox
 
-1. Install *[tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)*
-2. Click here: [Install webwhatsapp_hide_previews.user.js](https://raw.githubusercontent.com/PabloReyes/userscripts/master/webwhatsapp_hide_previews.user.js)
-3. Tampermonkey should have detected the userscript. Just click on the "install" button at the bottom of the page
+Then just click in any of the .js files and your manager should handle the rest and ask you if you want to install it.
+
+Depending on the browser, it may have built-in support for userscripts. In the case of Chrome, you can just drag & drop the js file into the "Extensions" screen and it will ask if you want to install it.
