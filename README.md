@@ -8,7 +8,7 @@ With this script, the previews will be almost invisible, and you'll need to manu
 
 If you try hard enough, you'll be able to see some shapes in the image, which will help you decide if you should open it or not.
 
-### Example of before and after
+### Before and after
 ![before_after](examples/webwhatsapp_hide_previews/before_after.png)
 
 Installation
