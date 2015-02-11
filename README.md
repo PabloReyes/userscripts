@@ -16,6 +16,6 @@ Installation
 These userscripts are valid for mostly any new browser. I would recommend installing a userscript manager like 
 *[tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)* for Chrome or *[greasemonkey](https://addons.mozilla.org/es/firefox/addon/greasemonkey/)* for Firefox
 
-Then just click in any of the .js files and your manager should handle the rest and ask you if you want to install it.
+Then just click in any of the .js files and then click on "raw". Your manager should handle the rest and ask you if you want to install it.
 
 Depending on the browser, it may have built-in support for userscripts. In the case of Chrome, you can just drag & drop the js file into the "Extensions" screen and it will ask if you want to install it.
