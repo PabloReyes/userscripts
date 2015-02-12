@@ -1,9 +1,13 @@
 // ==UserScript==
 // @name         WebWhatsApp Hide Previews
 // @namespace    pabloreyes.es
-// @version      0.1
+// @version      0.2
 // @description  Hide the preview of images in the web version of whatsapp. To view the image, simply click on it and it will open in a popup
 // @author       Pablo Reyes Almagro
+// @homepage	 https://github.com/PabloReyes/userscripts/
+// @homepageUrl	 https://github.com/PabloReyes/userscripts/
+// @downloadURL	 https://github.com/PabloReyes/userscripts/raw/master/webwhatsapp_hide_previews.user.js
+// @updateURL 	 https://github.com/PabloReyes/userscripts/raw/master/webwhatsapp_hide_previews.user.js
 // @match        https://web.whatsapp.com/*
 // @grant    	 GM_addStyle
 // ==/UserScript==
